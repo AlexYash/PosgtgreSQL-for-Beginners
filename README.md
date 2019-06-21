@@ -3,4 +3,5 @@ Epub version of "PostgreSQL for Beginners" - https://postgrespro.com/education/b
 
 Useful links:
 Calibre ebook management suite - https://calibre-ebook.com/ 
+
 Sigil Ebook (EPub editor) - https://sigil-ebook.com/
