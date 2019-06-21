@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ed47f9a-1b0a-4985-8ccd-25f20fc864d5</dc:identifier>
+        <dc:title>PostgreSQL introbook v4 en</dc:title>
+        <dc:creator opf:file-as="P.Luzanov, E.Rogov, I.Levshin" opf:role="aut">P.Luzanov, E.Rogov, I.Levshin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>PostgreSQL</dc:subject>
+        <meta content="{&quot;P.Luzanov, E.Rogov, I.Levshin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-06-21T09:02:17.505000+00:00" name="calibre:timestamp"/>
+        <meta content="PostgreSQL introbook v4 en" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
